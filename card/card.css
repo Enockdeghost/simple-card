@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+.card h1 {
+    font-weight: 900;
+    font-family: "Playwrite GB S", cursive;
+}
+
+.card {
+    color: #14293a;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma;
+    line-height: 1.5;
+    text-align: center;
+    border: 2px dashed rgb(227, 223, 223);
+    box-shadow: 0.7rem 1rem 3rem 1px #8a8b8a;
+    margin-right: 15%;
+    margin: 9rem;
+    width: 40%;
+}
+
+.card p {
+    color: #201b14;
+}
+
+.card a {
+    color: red;
+    text-decoration: none;
+}
+
+p span {
+    font-weight: 700;
+    font-size: .78em;
+}
+.card a:hover{
+    color: #14293a;
+}
